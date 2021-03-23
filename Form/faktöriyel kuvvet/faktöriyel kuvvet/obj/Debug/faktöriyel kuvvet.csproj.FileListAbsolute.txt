@@ -1,0 +1,9 @@
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Form\faktöriyel kuvvet\faktöriyel kuvvet\bin\Debug\faktöriyel kuvvet.exe.config
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Form\faktöriyel kuvvet\faktöriyel kuvvet\bin\Debug\faktöriyel kuvvet.exe
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Form\faktöriyel kuvvet\faktöriyel kuvvet\bin\Debug\faktöriyel kuvvet.pdb
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Form\faktöriyel kuvvet\faktöriyel kuvvet\obj\Debug\faktöriyel_kuvvet.Form1.resources
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Form\faktöriyel kuvvet\faktöriyel kuvvet\obj\Debug\faktöriyel_kuvvet.Properties.Resources.resources
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Form\faktöriyel kuvvet\faktöriyel kuvvet\obj\Debug\faktöriyel kuvvet.csproj.GenerateResource.cache
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Form\faktöriyel kuvvet\faktöriyel kuvvet\obj\Debug\faktöriyel kuvvet.csproj.CoreCompileInputs.cache
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Form\faktöriyel kuvvet\faktöriyel kuvvet\obj\Debug\faktöriyel kuvvet.exe
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Form\faktöriyel kuvvet\faktöriyel kuvvet\obj\Debug\faktöriyel kuvvet.pdb
