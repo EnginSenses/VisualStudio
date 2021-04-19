@@ -1,0 +1,7 @@
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Console\Renkli Yazı\Renkli Yazı\bin\Debug\Renkli Yazı.exe.config
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Console\Renkli Yazı\Renkli Yazı\bin\Debug\Renkli Yazı.exe
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Console\Renkli Yazı\Renkli Yazı\bin\Debug\Renkli Yazı.pdb
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Console\Renkli Yazı\Renkli Yazı\obj\Debug\Renkli Yazı.csprojAssemblyReference.cache
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Console\Renkli Yazı\Renkli Yazı\obj\Debug\Renkli Yazı.csproj.CoreCompileInputs.cache
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Console\Renkli Yazı\Renkli Yazı\obj\Debug\Renkli Yazı.exe
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Console\Renkli Yazı\Renkli Yazı\obj\Debug\Renkli Yazı.pdb

@@ -1,0 +1,9 @@
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Form\Alanların rengini değiştirme\Alanların rengini değiştirme\bin\Debug\Alanların rengini değiştirme.exe.config
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Form\Alanların rengini değiştirme\Alanların rengini değiştirme\bin\Debug\Alanların rengini değiştirme.exe
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Form\Alanların rengini değiştirme\Alanların rengini değiştirme\bin\Debug\Alanların rengini değiştirme.pdb
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Form\Alanların rengini değiştirme\Alanların rengini değiştirme\obj\Debug\Alanların_rengini_değiştirme.Form1.resources
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Form\Alanların rengini değiştirme\Alanların rengini değiştirme\obj\Debug\Alanların_rengini_değiştirme.Properties.Resources.resources
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Form\Alanların rengini değiştirme\Alanların rengini değiştirme\obj\Debug\Alanların rengini değiştirme.csproj.GenerateResource.cache
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Form\Alanların rengini değiştirme\Alanların rengini değiştirme\obj\Debug\Alanların rengini değiştirme.csproj.CoreCompileInputs.cache
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Form\Alanların rengini değiştirme\Alanların rengini değiştirme\obj\Debug\Alanların rengini değiştirme.exe
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Form\Alanların rengini değiştirme\Alanların rengini değiştirme\obj\Debug\Alanların rengini değiştirme.pdb

@@ -1,0 +1,10 @@
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Console\Listbox sayıları toplama\Listbox sayıları toplama\bin\Debug\Listbox sayıları toplama.exe.config
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Console\Listbox sayıları toplama\Listbox sayıları toplama\bin\Debug\Listbox sayıları toplama.exe
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Console\Listbox sayıları toplama\Listbox sayıları toplama\bin\Debug\Listbox sayıları toplama.pdb
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Console\Listbox sayıları toplama\Listbox sayıları toplama\obj\Debug\Listbox sayıları toplama.csprojAssemblyReference.cache
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Console\Listbox sayıları toplama\Listbox sayıları toplama\obj\Debug\Listbox_sayıları_toplama.Form1.resources
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Console\Listbox sayıları toplama\Listbox sayıları toplama\obj\Debug\Listbox_sayıları_toplama.Properties.Resources.resources
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Console\Listbox sayıları toplama\Listbox sayıları toplama\obj\Debug\Listbox sayıları toplama.csproj.GenerateResource.cache
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Console\Listbox sayıları toplama\Listbox sayıları toplama\obj\Debug\Listbox sayıları toplama.csproj.CoreCompileInputs.cache
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Console\Listbox sayıları toplama\Listbox sayıları toplama\obj\Debug\Listbox sayıları toplama.exe
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Console\Listbox sayıları toplama\Listbox sayıları toplama\obj\Debug\Listbox sayıları toplama.pdb

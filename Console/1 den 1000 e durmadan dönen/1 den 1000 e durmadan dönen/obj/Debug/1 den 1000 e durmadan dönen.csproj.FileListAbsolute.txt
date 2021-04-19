@@ -1,0 +1,6 @@
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Console\1 den 1000 e durmadan dönen\1 den 1000 e durmadan dönen\bin\Debug\1 den 1000 e durmadan dönen.exe.config
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Console\1 den 1000 e durmadan dönen\1 den 1000 e durmadan dönen\bin\Debug\1 den 1000 e durmadan dönen.exe
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Console\1 den 1000 e durmadan dönen\1 den 1000 e durmadan dönen\bin\Debug\1 den 1000 e durmadan dönen.pdb
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Console\1 den 1000 e durmadan dönen\1 den 1000 e durmadan dönen\obj\Debug\1 den 1000 e durmadan dönen.csproj.CoreCompileInputs.cache
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Console\1 den 1000 e durmadan dönen\1 den 1000 e durmadan dönen\obj\Debug\1 den 1000 e durmadan dönen.exe
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Console\1 den 1000 e durmadan dönen\1 den 1000 e durmadan dönen\obj\Debug\1 den 1000 e durmadan dönen.pdb

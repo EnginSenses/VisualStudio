@@ -1,0 +1,9 @@
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Form\Sayı seçip çarpım tablosu yapma\Sayı seçip çarpım tablosu yapma\bin\Debug\Sayı seçip çarpım tablosu yapma.exe.config
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Form\Sayı seçip çarpım tablosu yapma\Sayı seçip çarpım tablosu yapma\bin\Debug\Sayı seçip çarpım tablosu yapma.exe
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Form\Sayı seçip çarpım tablosu yapma\Sayı seçip çarpım tablosu yapma\bin\Debug\Sayı seçip çarpım tablosu yapma.pdb
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Form\Sayı seçip çarpım tablosu yapma\Sayı seçip çarpım tablosu yapma\obj\Debug\Sayı_seçip_çarpım_tablosu_yapma.Form1.resources
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Form\Sayı seçip çarpım tablosu yapma\Sayı seçip çarpım tablosu yapma\obj\Debug\Sayı_seçip_çarpım_tablosu_yapma.Properties.Resources.resources
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Form\Sayı seçip çarpım tablosu yapma\Sayı seçip çarpım tablosu yapma\obj\Debug\Sayı seçip çarpım tablosu yapma.csproj.GenerateResource.cache
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Form\Sayı seçip çarpım tablosu yapma\Sayı seçip çarpım tablosu yapma\obj\Debug\Sayı seçip çarpım tablosu yapma.csproj.CoreCompileInputs.cache
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Form\Sayı seçip çarpım tablosu yapma\Sayı seçip çarpım tablosu yapma\obj\Debug\Sayı seçip çarpım tablosu yapma.exe
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Form\Sayı seçip çarpım tablosu yapma\Sayı seçip çarpım tablosu yapma\obj\Debug\Sayı seçip çarpım tablosu yapma.pdb

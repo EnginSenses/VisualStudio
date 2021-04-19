@@ -1,0 +1,9 @@
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Form\Cümlede karakter arama\Cümlede karakter arama\bin\Debug\Cümlede karakter arama.exe.config
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Form\Cümlede karakter arama\Cümlede karakter arama\bin\Debug\Cümlede karakter arama.exe
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Form\Cümlede karakter arama\Cümlede karakter arama\bin\Debug\Cümlede karakter arama.pdb
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Form\Cümlede karakter arama\Cümlede karakter arama\obj\Debug\Cümlede_karakter_arama.Form1.resources
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Form\Cümlede karakter arama\Cümlede karakter arama\obj\Debug\Cümlede_karakter_arama.Properties.Resources.resources
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Form\Cümlede karakter arama\Cümlede karakter arama\obj\Debug\Cümlede karakter arama.csproj.GenerateResource.cache
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Form\Cümlede karakter arama\Cümlede karakter arama\obj\Debug\Cümlede karakter arama.csproj.CoreCompileInputs.cache
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Form\Cümlede karakter arama\Cümlede karakter arama\obj\Debug\Cümlede karakter arama.exe
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Form\Cümlede karakter arama\Cümlede karakter arama\obj\Debug\Cümlede karakter arama.pdb

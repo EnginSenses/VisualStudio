@@ -1,0 +1,10 @@
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Form\Sayı ekleme arama\Sayı ekleme arama\bin\Debug\Sayı ekleme arama.exe.config
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Form\Sayı ekleme arama\Sayı ekleme arama\bin\Debug\Sayı ekleme arama.exe
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Form\Sayı ekleme arama\Sayı ekleme arama\bin\Debug\Sayı ekleme arama.pdb
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Form\Sayı ekleme arama\Sayı ekleme arama\obj\Debug\Sayı ekleme arama.csprojAssemblyReference.cache
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Form\Sayı ekleme arama\Sayı ekleme arama\obj\Debug\Sayı_ekleme_arama.Form1.resources
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Form\Sayı ekleme arama\Sayı ekleme arama\obj\Debug\Sayı_ekleme_arama.Properties.Resources.resources
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Form\Sayı ekleme arama\Sayı ekleme arama\obj\Debug\Sayı ekleme arama.csproj.GenerateResource.cache
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Form\Sayı ekleme arama\Sayı ekleme arama\obj\Debug\Sayı ekleme arama.csproj.CoreCompileInputs.cache
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Form\Sayı ekleme arama\Sayı ekleme arama\obj\Debug\Sayı ekleme arama.exe
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Form\Sayı ekleme arama\Sayı ekleme arama\obj\Debug\Sayı ekleme arama.pdb

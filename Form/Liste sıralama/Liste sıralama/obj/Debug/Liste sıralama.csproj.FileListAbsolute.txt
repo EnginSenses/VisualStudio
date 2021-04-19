@@ -1,0 +1,10 @@
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Form\Liste sıralama\Liste sıralama\bin\Debug\Liste sıralama.exe.config
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Form\Liste sıralama\Liste sıralama\bin\Debug\Liste sıralama.exe
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Form\Liste sıralama\Liste sıralama\bin\Debug\Liste sıralama.pdb
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Form\Liste sıralama\Liste sıralama\obj\Debug\Liste_sıralama.Form1.resources
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Form\Liste sıralama\Liste sıralama\obj\Debug\Liste_sıralama.Properties.Resources.resources
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Form\Liste sıralama\Liste sıralama\obj\Debug\Liste sıralama.csproj.GenerateResource.cache
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Form\Liste sıralama\Liste sıralama\obj\Debug\Liste sıralama.csproj.CoreCompileInputs.cache
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Form\Liste sıralama\Liste sıralama\obj\Debug\Liste sıralama.exe
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Form\Liste sıralama\Liste sıralama\obj\Debug\Liste sıralama.pdb
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Form\Liste sıralama\Liste sıralama\obj\Debug\Liste sıralama.csprojAssemblyReference.cache

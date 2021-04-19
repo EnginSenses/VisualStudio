@@ -1,0 +1,6 @@
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Console\E girdiği sürece toplama\E girdiği sürece toplama\bin\Debug\E girdiği sürece toplama.exe.config
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Console\E girdiği sürece toplama\E girdiği sürece toplama\bin\Debug\E girdiği sürece toplama.exe
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Console\E girdiği sürece toplama\E girdiği sürece toplama\bin\Debug\E girdiği sürece toplama.pdb
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Console\E girdiği sürece toplama\E girdiği sürece toplama\obj\Debug\E girdiği sürece toplama.csproj.CoreCompileInputs.cache
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Console\E girdiği sürece toplama\E girdiği sürece toplama\obj\Debug\E girdiği sürece toplama.exe
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Console\E girdiği sürece toplama\E girdiği sürece toplama\obj\Debug\E girdiği sürece toplama.pdb

@@ -1,0 +1,10 @@
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Form\Sayaç\Sayaç\bin\Debug\Sayaç.exe.config
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Form\Sayaç\Sayaç\bin\Debug\Sayaç.exe
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Form\Sayaç\Sayaç\bin\Debug\Sayaç.pdb
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Form\Sayaç\Sayaç\obj\Debug\Sayaç.csprojAssemblyReference.cache
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Form\Sayaç\Sayaç\obj\Debug\Sayaç.Form1.resources
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Form\Sayaç\Sayaç\obj\Debug\Sayaç.Properties.Resources.resources
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Form\Sayaç\Sayaç\obj\Debug\Sayaç.csproj.GenerateResource.cache
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Form\Sayaç\Sayaç\obj\Debug\Sayaç.csproj.CoreCompileInputs.cache
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Form\Sayaç\Sayaç\obj\Debug\Sayaç.exe
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Form\Sayaç\Sayaç\obj\Debug\Sayaç.pdb

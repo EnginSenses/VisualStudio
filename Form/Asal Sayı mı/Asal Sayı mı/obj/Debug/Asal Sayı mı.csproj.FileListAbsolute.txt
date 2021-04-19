@@ -1,0 +1,10 @@
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Form\Asal Sayı mı\Asal Sayı mı\bin\Debug\Asal Sayı mı.exe.config
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Form\Asal Sayı mı\Asal Sayı mı\bin\Debug\Asal Sayı mı.exe
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Form\Asal Sayı mı\Asal Sayı mı\bin\Debug\Asal Sayı mı.pdb
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Form\Asal Sayı mı\Asal Sayı mı\obj\Debug\Asal Sayı mı.csprojAssemblyReference.cache
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Form\Asal Sayı mı\Asal Sayı mı\obj\Debug\Asal_Sayı_mı.Form1.resources
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Form\Asal Sayı mı\Asal Sayı mı\obj\Debug\Asal_Sayı_mı.Properties.Resources.resources
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Form\Asal Sayı mı\Asal Sayı mı\obj\Debug\Asal Sayı mı.csproj.GenerateResource.cache
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Form\Asal Sayı mı\Asal Sayı mı\obj\Debug\Asal Sayı mı.csproj.CoreCompileInputs.cache
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Form\Asal Sayı mı\Asal Sayı mı\obj\Debug\Asal Sayı mı.exe
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Form\Asal Sayı mı\Asal Sayı mı\obj\Debug\Asal Sayı mı.pdb
