@@ -1,0 +1,7 @@
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Console\ArrayList 1\ArrayList 1\bin\Debug\ArrayList 1.exe.config
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Console\ArrayList 1\ArrayList 1\bin\Debug\ArrayList 1.exe
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Console\ArrayList 1\ArrayList 1\bin\Debug\ArrayList 1.pdb
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Console\ArrayList 1\ArrayList 1\obj\Debug\ArrayList 1.csprojAssemblyReference.cache
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Console\ArrayList 1\ArrayList 1\obj\Debug\ArrayList 1.csproj.CoreCompileInputs.cache
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Console\ArrayList 1\ArrayList 1\obj\Debug\ArrayList 1.exe
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Console\ArrayList 1\ArrayList 1\obj\Debug\ArrayList 1.pdb

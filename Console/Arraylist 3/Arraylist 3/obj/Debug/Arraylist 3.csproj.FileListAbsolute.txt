@@ -1,0 +1,6 @@
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Console\Arraylist 3\Arraylist 3\bin\Debug\Arraylist 3.exe.config
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Console\Arraylist 3\Arraylist 3\bin\Debug\Arraylist 3.exe
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Console\Arraylist 3\Arraylist 3\bin\Debug\Arraylist 3.pdb
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Console\Arraylist 3\Arraylist 3\obj\Debug\Arraylist 3.csproj.CoreCompileInputs.cache
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Console\Arraylist 3\Arraylist 3\obj\Debug\Arraylist 3.exe
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Console\Arraylist 3\Arraylist 3\obj\Debug\Arraylist 3.pdb
