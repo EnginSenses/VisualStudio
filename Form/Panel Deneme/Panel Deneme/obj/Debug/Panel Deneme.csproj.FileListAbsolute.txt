@@ -1,0 +1,9 @@
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Form\Panel Deneme\Panel Deneme\bin\Debug\Panel Deneme.exe.config
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Form\Panel Deneme\Panel Deneme\bin\Debug\Panel Deneme.exe
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Form\Panel Deneme\Panel Deneme\bin\Debug\Panel Deneme.pdb
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Form\Panel Deneme\Panel Deneme\obj\Debug\Panel_Deneme.Form1.resources
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Form\Panel Deneme\Panel Deneme\obj\Debug\Panel_Deneme.Properties.Resources.resources
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Form\Panel Deneme\Panel Deneme\obj\Debug\Panel Deneme.csproj.GenerateResource.cache
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Form\Panel Deneme\Panel Deneme\obj\Debug\Panel Deneme.csproj.CoreCompileInputs.cache
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Form\Panel Deneme\Panel Deneme\obj\Debug\Panel Deneme.exe
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Form\Panel Deneme\Panel Deneme\obj\Debug\Panel Deneme.pdb

@@ -1,0 +1,9 @@
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Form\ProgresBar Timer\ProgresBar Timer\bin\Debug\ProgresBar Timer.exe.config
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Form\ProgresBar Timer\ProgresBar Timer\bin\Debug\ProgresBar Timer.exe
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Form\ProgresBar Timer\ProgresBar Timer\bin\Debug\ProgresBar Timer.pdb
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Form\ProgresBar Timer\ProgresBar Timer\obj\Debug\ProgresBar_Timer.Form1.resources
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Form\ProgresBar Timer\ProgresBar Timer\obj\Debug\ProgresBar_Timer.Properties.Resources.resources
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Form\ProgresBar Timer\ProgresBar Timer\obj\Debug\ProgresBar Timer.csproj.GenerateResource.cache
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Form\ProgresBar Timer\ProgresBar Timer\obj\Debug\ProgresBar Timer.csproj.CoreCompileInputs.cache
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Form\ProgresBar Timer\ProgresBar Timer\obj\Debug\ProgresBar Timer.exe
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Form\ProgresBar Timer\ProgresBar Timer\obj\Debug\ProgresBar Timer.pdb

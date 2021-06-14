@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgresBar Timer", "ProgresBar Timer\ProgresBar Timer.csproj", "{EB67F41D-7560-4E9D-B937-355BE5A82B37}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB67F41D-7560-4E9D-B937-355BE5A82B37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB67F41D-7560-4E9D-B937-355BE5A82B37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB67F41D-7560-4E9D-B937-355BE5A82B37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB67F41D-7560-4E9D-B937-355BE5A82B37}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3AE2984B-D006-4B42-843E-47F5EDF5B52A}
+	EndGlobalSection
+EndGlobal

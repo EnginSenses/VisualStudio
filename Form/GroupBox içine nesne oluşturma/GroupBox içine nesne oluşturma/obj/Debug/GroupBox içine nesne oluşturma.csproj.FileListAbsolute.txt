@@ -1,0 +1,10 @@
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Form\GroupBox içine nesne oluşturma\GroupBox içine nesne oluşturma\bin\Debug\GroupBox içine nesne oluşturma.exe.config
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Form\GroupBox içine nesne oluşturma\GroupBox içine nesne oluşturma\bin\Debug\GroupBox içine nesne oluşturma.exe
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Form\GroupBox içine nesne oluşturma\GroupBox içine nesne oluşturma\bin\Debug\GroupBox içine nesne oluşturma.pdb
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Form\GroupBox içine nesne oluşturma\GroupBox içine nesne oluşturma\obj\Debug\GroupBox içine nesne oluşturma.csproj.AssemblyReference.cache
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Form\GroupBox içine nesne oluşturma\GroupBox içine nesne oluşturma\obj\Debug\GroupBox_içine_nesne_oluşturma.Form1.resources
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Form\GroupBox içine nesne oluşturma\GroupBox içine nesne oluşturma\obj\Debug\GroupBox_içine_nesne_oluşturma.Properties.Resources.resources
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Form\GroupBox içine nesne oluşturma\GroupBox içine nesne oluşturma\obj\Debug\GroupBox içine nesne oluşturma.csproj.GenerateResource.cache
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Form\GroupBox içine nesne oluşturma\GroupBox içine nesne oluşturma\obj\Debug\GroupBox içine nesne oluşturma.csproj.CoreCompileInputs.cache
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Form\GroupBox içine nesne oluşturma\GroupBox içine nesne oluşturma\obj\Debug\GroupBox içine nesne oluşturma.exe
+C:\Users\engin\OneDrive\Masaüstü\Ders Çalışma\Visual Studio\VisualStudio\Form\GroupBox içine nesne oluşturma\GroupBox içine nesne oluşturma\obj\Debug\GroupBox içine nesne oluşturma.pdb
